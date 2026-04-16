@@ -4,7 +4,7 @@
   <br />
 
   <p align="center">
-    <b>Aether Reader is a premium, minimalist web novel reader interface designed for a focus-oriented reading experience. It provides a sleek, modern UI with smooth transitions, keyboard shortcuts, and persistent reading progress.</b>
+    <b>Text Reader is a premium, minimalist web novel reader interface designed for a focus-oriented reading experience. It provides a sleek, modern UI with smooth transitions, keyboard shortcuts, and persistent reading progress.</b>
     <br />
  
   </p>
@@ -44,7 +44,7 @@ You need [Node.js](https://nodejs.org/) installed on your system to run the Tail
 
 1. Navigate to the project directory:
    ```bash
-   cd aether-reader
+   cd text-reader
    ```
 2. Install the dependencies:
    ```bash
@@ -62,7 +62,7 @@ You need [Node.js](https://nodejs.org/) installed on your system to run the Tail
 
 ## 📂 Content & Configuration
 
-Aether Reader is highly flexible. While it expects files in a specific format by default, you can easily customize the behavior via the `CONFIG` object in `script.js`.
+Text Reader is highly flexible. While it expects files in a specific format by default, you can easily customize the behavior via the `CONFIG` object in `script.js`.
 
 ### Default Expectations
 
