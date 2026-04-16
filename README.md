@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="120" height="120" />
+  <img src="kintaro.png" width="120" height="120" />
   <br />
   <br />
 
