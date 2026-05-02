@@ -2,7 +2,7 @@ const CONFIG = {
     chapterPrefix: 'chapter-',
     chapterExtension: '.txt',
     basePath: './chapters/',
-    totalChapters: 2235,
+    totalChapters: 6,
     storageKey: 'lastChapter'
 };
 
